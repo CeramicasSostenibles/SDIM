@@ -13,7 +13,8 @@ SDIM recibe los resultados de laboratorio de un suelo o relave y entrega:
 
 Descargar
 
-Descargue el instalador (SDIM-1.1.exe) en la sección [Releases].
+DESCARGAR EL INSTALADOR:
+https://github.com/silviagomez234556-cmyk/SDIM/releases/latest/download/SDIM-1.1.exe
 
 Para instalarlo y usarlo, abra la Guía rápida ("Guia_rapida_SDIM.txt").
 
