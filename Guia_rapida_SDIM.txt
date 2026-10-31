@@ -1,22 +1,18 @@
-===============================================================
+
                   SDIM - GUIA RAPIDA
-     Del suelo al baldosin ceramico, paso a paso
-===============================================================
 
-
----------------------------------------------------------------
-PARTE 1. COMO INSTALAR SDIM (PRIMERA VEZ)
----------------------------------------------------------------
+PARTE 1. COMO INSTALAR SDIM 
 
 Necesita: un computador con Windows 10 u 11.
 No necesita instalar nada mas (Java ya viene incluido).
+
+DESCARGAR EL INSTALADOR:
+https://github.com/silviagomez234556-cmyk/SDIM/releases/latest/download/SDIM-1.1.exe
 
   1. Copie el archivo  SDIM-1.1.exe  en su computador
      (por ejemplo en la carpeta Descargas).
 
   2. Haga doble clic en  SDIM-1.1.exe.
-     Espere hasta 1 minuto: el archivo es grande y tarda en abrir.
-     No le de doble clic otra vez mientras espera.
 
   3. Si sale el aviso "Windows protegio su PC":
      pulse "Mas informacion" y despues "Ejecutar de todas formas".
@@ -29,25 +25,9 @@ No necesita instalar nada mas (Java ya viene incluido).
   6. Listo. Abra SDIM desde el icono del Escritorio
      o buscando "SDIM" en el menu Inicio.
 
-Si el instalador no abre:
-  - Espere un minuto mas.
-  - Revise que el antivirus no lo haya bloqueado.
-  - Reinicie el computador y vuelva a intentarlo.
 
 
----------------------------------------------------------------
-PARTE 2. COMO FUNCIONA SDIM (EXPLICADO SENCILLO)
----------------------------------------------------------------
-
-QUE HACE
-  Usted le da los datos del laboratorio de un suelo (o relave)
-  y SDIM le dice como hacer un baldosin con ese material:
-  cuanto poner de cada cosa, como secarlo, como cocinarlo
-  en el horno y si cumple la norma (NTC 919).
-
-LA IDEA EN UNA LINEA
-  Suelo  ->  Pieza  ->  Mezcla  ->  Secado y coccion
-         ->  Ensayos  ->  Informe PDF  ->  Guardar
+PARTE 2. COMO FUNCIONA SDIM 
 
 
 LOS 8 PASOS
@@ -90,7 +70,7 @@ LOS 8 PASOS
   7. INFORME
      Pulse "Descargar informe final (PDF)". Sale un informe de
      4 paginas con todo el estudio y el uso recomendado
-     (por ejemplo: pisos de casa).
+
 
   8. GUARDAR
      Pulse el boton "Guardar" (disquete) o Ctrl + S.
@@ -98,7 +78,6 @@ LOS 8 PASOS
 
 
 AYUDA DENTRO DEL PROGRAMA
-  Pulse la tecla F1 (o el menu Ayuda -> Pasos de uso).
-  Vera un video corto de cada paso.
+  Pulse la tecla F1 o el menu Ayuda.
 
 ===============================================================
